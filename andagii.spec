@@ -1,7 +1,7 @@
 %define fontname andagii
 %define name	 fonts-ttf-%{fontname}
 %define version	 1.0
-%define release	 %mkrel 1
+%define release	 %mkrel 2
 
 %define fontdir	 %{_datadir}/fonts/TTF/%{fontname}
 %define fontconfdir %{_sysconfdir}/X11/fontpath.d
