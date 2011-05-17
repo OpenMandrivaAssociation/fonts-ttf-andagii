@@ -16,6 +16,7 @@ Group:		 System/Fonts/True type
 Url:		 http://www.i18nguy.com/unicode/unicode-font.html
 BuildRoot:	 %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:	 noarch
+BuildRequires: fontconfig
 BuildRequires:	 freetype-tools
 
 %description
