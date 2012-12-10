@@ -48,3 +48,15 @@ ln -s ../../../%{fontdir} %{buildroot}%{fontconfdir}/ttf-%{fontname}:pri=50
 %{fontdir}/*.ttf
 %{fontdir}/fonts.*
 %{fontconfdir}/*
+
+
+%changelog
+* Tue May 17 2011 Funda Wang <fwang@mandriva.org> 1.0-2mdv2011.0
++ Revision: 675515
+- br fontconfig for fc-query used in new rpm-setup-build
+
+* Mon Aug 23 2010 Lev Givon <lev@mandriva.org> 1.0-1mdv2011.0
++ Revision: 572490
+- import fonts-ttf-andagii
+
+
