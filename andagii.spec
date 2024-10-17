@@ -9,7 +9,7 @@ Version:	1.0
 Release:	4
 License:	GPL
 Group:		System/Fonts/True type
-Url:		http://www.i18nguy.com/unicode/unicode-font.html
+Url:		https://www.i18nguy.com/unicode/unicode-font.html
 Source0:	%{fontname}.zip
 BuildRequires:	fontconfig
 BuildRequires:	freetype-tools
